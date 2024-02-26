@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": 4
+    },
+    {
+      "name": "macarrao",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "mouse",
+      "price": "60",
+      "id": 6
+    },
+    {
+      "name": "suporte",
+      "price": "120",
+      "id": 7
+    }
+  ]
+}
